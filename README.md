@@ -7,6 +7,8 @@ This repository contains a MATLAB implementation of the spectrum sensing algorit
 
 The primary focus is the implementation of the paper's proposed Generalized Likelihood Ratio Test (GLRT) detector and a performance comparison against other existing methods.
 
+## PPT
+   - [Presentation](https://www.canva.com/design/DAGxwT6kUFg/xisFZ-Rxi00_JspBcrLj6A/edit?utm_content=DAGxwT6kUFg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Overview
 
 Cognitive Radio (CR) systems require robust and rapid spectrum sensing to detect the presence of licensed "primary users" (PUs) before using a frequency band.This project simulates a scenario where a secondary user employs multiple antennas to detect a single primary user signal.
